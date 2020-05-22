@@ -151,7 +151,8 @@
                         "Zend OPcache",
                         "zip",
                         "zlib",
-                        "ssh2"
+                        "ssh2",
+						"gettext"
                     ],
                     "description": "Configure stub files for built in symbols and common extensions. The default setting includes PHP core and all bundled extensions.",
                     "scope": "window"
